@@ -31,14 +31,14 @@ To get the application running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/szthaarnav/GUI-based-Pizza-Store
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [Your Project Folder]
+    cd "Pizza Store GUI"
     ```
 3.  **Ensure all required image and data files** (e.g., pizza images) are present in the project directory.
 4.  **Run the main script:**
     ```bash
-    python your_main_script_name.py
+    python main.py
     ```
